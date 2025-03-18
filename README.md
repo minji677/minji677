@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# 수정을했어요
+
 <!--
 **minji677/minji677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
