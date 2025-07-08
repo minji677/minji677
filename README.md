@@ -1,6 +1,6 @@
-## Hi there 👋
+## 
 
-# 김민지입니다
+# 김민지
 
 <!--
 **minji677/minji677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
